@@ -118,7 +118,7 @@
         
         
         <gap:plugin name="phonegap-plugin-push" source="npm" spec="1.8.2">
-            <param name="SENDER_ID" value="459115189650" />
+            <param name="SENDER_ID" value="539134257623" />
         </gap:plugin>
         
         <plugin spec="https://github.com/venkykowshik/startapp.git" source="git" />
